@@ -1,2 +1,1 @@
-# Scripts
-Bash Scripts
+Bash Scripts Collection 
